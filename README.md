@@ -1,1 +1,2 @@
-# clothing_collection1
+# clothing_collection
+Enjoy your shoping
