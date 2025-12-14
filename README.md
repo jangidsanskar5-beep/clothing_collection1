@@ -1,2 +1,2 @@
 # clothing_collection
-Enjoy your shoping
+Enjoy your shopping
